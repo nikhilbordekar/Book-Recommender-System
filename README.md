@@ -1,4 +1,8 @@
 # Book Recommender System
+
+![image](https://github.com/nikhilbordekar/Book-Recommender-System/assets/121897260/e4e5123a-e4b1-4a2a-b213-0e145d2767da)
+
+
 **Overview**
 Welcome to the repository for my capstone project titled "Book Recommender System." This project focuses on building a recommendation system that suggests books to users based on their reading preferences and behavior. By leveraging machine learning algorithms and book-related data, we aim to develop a personalized book recommendation system.
 
